@@ -37,6 +37,7 @@ Dev environment:
 * Json.NET for data management
 * Builder Library (included)
 * <a href="https://github.com/Raffy27/Antiscan" target="_blank">Antiscan</a> Binary (included)
+* Tor Expert Bundle (containing *libeay32.dll* and *ssleay32.dll*)
 
 ### Installing
 Clone the repository using
