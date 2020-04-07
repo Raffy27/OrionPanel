@@ -1,5 +1,5 @@
 # OrionPanel
-![Commit](https://img.shields.io/github/last-commit/Raffy/OrionPanel)
+![Commit](https://img.shields.io/github/last-commit/Raffy27/OrionPanel)
 ![Release](https://img.shields.io/github/v/release/Raffy27/OrionPanel)
 ![Issues](https://img.shields.io/github/issues/Raffy27/OrionPanel)
 ![Toxicity](https://img.shields.io/badge/toxicity-28%25-green)

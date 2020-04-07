@@ -25,7 +25,7 @@ namespace Panel.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://orion34hchpyg2s5orienucaley5f5c6dmfzsdnkvf555yk7dwpibzid.onion:7019/")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://localhost:1337/")]
         public string GateLocation {
             get {
                 return ((string)(this["GateLocation"]));
@@ -97,7 +97,7 @@ namespace Panel.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://pastebin.com/raw/xDwZLbRH")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string RIPayload {
             get {
                 return ((string)(this["RIPayload"]));

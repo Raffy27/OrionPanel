@@ -2601,8 +2601,11 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(558, 363);
-            this.textBox1.TabIndex = 1;
-            this.textBox1.Text = "Coded by Raffy E\r\n\r\n2020/01/19 - First Release!";
+            this.textBox1.TabIndex = 0;
+            this.textBox1.TabStop = false;
+            this.textBox1.Text = "Coded by Raffy E\r\n\r\n2019/12/19 - First Private Release!\r\n2020/04/05 - Migrating r" +
+    "epos to GitHub\r\n2020/04/07 - First Public Release!\r\n\r\nNote: the code needs some " +
+    "serious documentation.";
             // 
             // logoLabel
             // 

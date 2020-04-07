@@ -7,7 +7,7 @@ uses
 {$R *.res}
 
 const
-  Version = 'OnionPanel Builder v1.0.0 by Raffy, 2019';
+  Version = 'OnionPanel Builder v1.5.7 by Raffy, 2019';
   Dict    = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@%()[]_-';
 
 var
