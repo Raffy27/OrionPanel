@@ -7,6 +7,8 @@
 
 OrionPanel is the graphical user interface of a centralized and versatile remote administration tool, making use of the Tor network to communicate with its respective server. It provides an environment to manage bots, perform tasks and build new ones.
 
+## [Setup Guide](https://github.com/Raffy27/OrionServer/blob/master/SetupGuide.md)
+
 ## Features
 * Dashboard with Statistics
 * List of Bots with Task menu
